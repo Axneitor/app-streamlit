@@ -1,2 +1,2 @@
 
-URL = "http://localhost:8080/predict/"
+URL = "https://model-flask-docker-r9zo.onrender.com/predict/"
